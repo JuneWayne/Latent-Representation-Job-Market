@@ -156,27 +156,9 @@ Latent-Representation-Job-Market/
 
 ---
 
-## Contributing
-
-Contributions welcome! Areas for improvement:
-- Expanding to other job markets (software engineering, product management, etc.)
-- Time-series analysis of cluster evolution
-- Salary correlation with clusters
-- Geographic cluster distribution
-
----
-
-## License
-
-MIT License - feel free to use this methodology for your own job market analysis!
-
----
-
 ## Acknowledgments
 
-- **Data Source**: LinkedIn job postings (via Supabase)
-- **Models**: HuggingFace SentenceTransformers, OpenAI GPT-4o-mini
-- **Libraries**: scikit-learn, UMAP, HDBSCAN, Plotly
+- **Active Learning Lab (UVA):** Dr.Brian Wright, Ali Rivera, Leah Kim
 
 ---
 

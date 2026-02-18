@@ -1,4 +1,4 @@
-# Latent Representation Job Market
+# Latent Representation of DS Job Market
 
 > **Transformer-Based Semantic Clustering for Discovering Latent Structure in Data Science Job Market Using UMAP and HDBSCAN**
 

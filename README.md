@@ -6,10 +6,10 @@
 
 Explore the full interactive map of the data science job market landscape:
 
-**[View Interactive Visualization](misc/data_science_job_market_landscape.html)**
+**[View Interactive Visualization](https://raw.githack.com/JuneWayne/Latent-Representation-Job-Market/main/misc/data_science_job_market_landscape.html)**
 
 <p align="center">
-  <a href="misc/data_science_job_market_landscape.html">
+  <a href="https://raw.githack.com/JuneWayne/Latent-Representation-Job-Market/main/misc/data_science_job_market_landscape.html">
     <img src="https://img.shields.io/badge/View-Interactive_Map-blue?style=for-the-badge&logo=plotly" alt="Interactive Map"/>
   </a>
 </p>

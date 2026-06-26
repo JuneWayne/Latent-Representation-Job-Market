@@ -38,7 +38,7 @@ Raw Text (N=900) → Tokenization → SentenceTransformer Encoding (R^384) → U
 | **4. Clustering**               | `HDBSCAN`                                | Density-based hierarchical clustering via mutual reachability      |
 | **5. Keyword Extraction**       | `TF-IDF` (class-based)                   | Compute log(M/df) × (tf/Σtf) for n-grams per cluster meta-document |
 | **6. Semantic Labeling**        | `GPT-4o-mini`                            | Zero-shot classification via prompt engineering (T=0.3)            |
-| **7. Visualization**            | `Plotly` + `Matplotlib`                  | Secondary UMAP R^384 → R^2 for web-based interactive scatter       |
+| **7. Visualization**            | `Plotly` + `Matplotlib`                  | UMAP R^384 → R^2 to produce interactive scatter plots              |
 
 ---
 
@@ -85,7 +85,7 @@ Open and execute [`Latent-Mapping-Experiment.ipynb`](Latent-Mapping-Experiment.i
 
 ```
 Latent-Representation-Job-Market/
-├── Latent-Mapping-Experiment.ipynb    # Main analysis notebook
+├── Latent_job_Market_NLP_Analysis.ipynb    # Main analysis notebook
 ├── README.md                           # This file
 └── misc/
     └── data_science_job_market_landscape.html   # Interactive visualization

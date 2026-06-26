@@ -4,16 +4,6 @@
 
 ## Interactive Visualization
 
-Explore the full interactive map of the data science job market landscape:
-
-**[View Interactive Visualization](https://raw.githack.com/JuneWayne/Latent-Representation-Job-Market/main/misc/data_science_job_market_landscape.html)**
-
-<p align="center">
-  <a href="https://raw.githack.com/JuneWayne/Latent-Representation-Job-Market/main/misc/data_science_job_market_landscape.html">
-    <img src="https://img.shields.io/badge/View-Interactive_Map-blue?style=for-the-badge&logo=plotly" alt="Interactive Map"/>
-  </a>
-</p>
-
 ---
 
 ## Project Overview
@@ -26,7 +16,7 @@ For interpretability, we extract discriminative features via **class-based TF-ID
 
 ### Results
 
-Through this unsupervised learning pipeline on **N=900+ data science job postings**, we identified **k=24 statistically significant clusters** (α=0.05 density threshold) representing distinct functional specializations in the market, including:
+Through this unsupervised learning pipeline on **N=10,000+ data science job postings**, we identified **k=24 statistically significant clusters** (α=0.05 density threshold) representing distinct functional specializations in the market, including:
 - Machine Learning & NLP Engineering
 - Business Intelligence & Analytics
 - Research Science & Data Engineering

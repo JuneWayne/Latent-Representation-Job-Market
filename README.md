@@ -2,10 +2,6 @@
 
 > **Transformer-Based Semantic Clustering for Discovering Latent Structure in Data Science Job Market Using UMAP and HDBSCAN**
 
-## Interactive Visualization
-
----
-
 ## Project Overview
 
 This project implements a transformer-based semantic encoding pipeline coupled with manifold learning and density-based clustering to discover latent structure in data science job descriptions. We leverage **SentenceTransformer** (`all-MiniLM-L6-v2`), a distilled bi-encoder architecture fine-tuned on 1B+ sentence pairs, to map textual job descriptions into a 384-dimensional dense vector space where semantic similarity is preserved via cosine distance.
